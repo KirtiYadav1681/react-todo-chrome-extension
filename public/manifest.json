@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name":"React Todo Extension",
+  "author":"Kirti",
+  "version":"1.0.0",
+  "description":"Replace new tab screen with a React Todo App",
+  "action":{
+    "default_popup":"index.html",
+    "default_icon":"logo.png",
+    "default_title":"React Todo Extension"
+  },
+  "permissions":["scripting"]
+}
