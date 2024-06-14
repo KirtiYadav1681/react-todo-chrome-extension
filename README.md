@@ -53,10 +53,4 @@ A Chrome extension to manage your todos, built using React and Redux. This exten
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
